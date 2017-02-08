@@ -1,0 +1,13 @@
+
+[apikey]
+key = 
+secret = 
+
+[token]
+token = 
+secret = 
+
+[app]
+rule =  @
+account_screen_name = 
+account_user_id = 
